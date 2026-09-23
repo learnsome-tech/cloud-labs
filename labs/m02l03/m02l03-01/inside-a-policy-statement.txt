@@ -1,0 +1,5 @@
+Sid        PublishSiteBundle          a label you choose
+Effect     Allow or Deny              there is no third value
+Action     s3:PutObject               service prefix, operation
+Resource   arn:aws:s3:::site-bundles-prod/*
+Condition  Bool aws:MultiFactorAuthPresent true

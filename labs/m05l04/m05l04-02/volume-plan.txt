@@ -1,0 +1,5 @@
+purpose       data volume
+size           100 GiB
+type           general purpose
+encryption     customer key
+backup         daily snapshot, thirty days

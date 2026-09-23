@@ -1,0 +1,3 @@
+s3:GetObject	allowed
+s3:PutObject	allowed
+s3:DeleteObject	explicitDeny

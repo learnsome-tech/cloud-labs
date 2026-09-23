@@ -1,0 +1,5 @@
+filesystem     shared-assets
+mount targets   private-a, private-b
+clients         web and worker roles
+access          tls in transit, posix owner
+throughput      elastic for bursty traffic

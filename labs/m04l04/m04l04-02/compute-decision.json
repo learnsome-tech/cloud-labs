@@ -1,0 +1,8 @@
+{
+  "workload": "image-resizer",
+  "trigger": "object-created-event",
+  "duration": "under-one-minute",
+  "state": "external-object-store",
+  "choice": "function",
+  "reason": "bursty-events-and-no-host-state"
+}

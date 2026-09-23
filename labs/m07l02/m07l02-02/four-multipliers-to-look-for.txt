@@ -1,0 +1,4 @@
+lifetime       how long did it run?
+volume         how many requests or bytes?
+unit price     what does one unit cost?
+multiplier     did retries or replicas repeat it?

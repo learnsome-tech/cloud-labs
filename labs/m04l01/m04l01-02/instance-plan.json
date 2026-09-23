@@ -1,0 +1,9 @@
+{
+  "name": "report-worker",
+  "image": "al2023-ami",
+  "type": "t3.small",
+  "subnet": "private-a",
+  "role": "report-reader",
+  "storageGiB": 30,
+  "shutdown": "stop"
+}

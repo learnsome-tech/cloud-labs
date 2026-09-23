@@ -1,0 +1,6 @@
+{
+    "NatGateway": {
+        "State": "pending",
+        "NatGatewayId": "nat-0123456789abcdef0"
+    }
+}

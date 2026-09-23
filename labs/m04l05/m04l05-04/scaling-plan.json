@@ -1,0 +1,8 @@
+{
+  "min": 2,
+  "desired": 2,
+  "max": 6,
+  "subnets": ["private-a", "private-b"],
+  "healthCheck": "load-balancer",
+  "template": "report-worker-v3"
+}

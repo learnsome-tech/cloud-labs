@@ -1,0 +1,4 @@
+within one zone     free, fastest
+zone to zone        a small charge per gigabyte, about one millisecond
+region to region    a larger charge per gigabyte, tens of milliseconds
+out to the internet the most expensive direction, and the one you forget

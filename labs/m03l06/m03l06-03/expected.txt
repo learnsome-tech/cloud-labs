@@ -1,0 +1,3 @@
+---------------------------------------------
+| Name             | Type | DNSName        |
+| app.example.com. | A    | dualstack.lb.example |

@@ -1,0 +1,10 @@
+== broad-deploy.json
+s3:GetObject	allowed
+s3:PutObject	allowed
+s3:DeleteBucket	allowed
+s3:PutBucketPolicy	allowed
+== scoped-deploy.json
+s3:GetObject	allowed
+s3:PutObject	allowed
+s3:DeleteBucket	explicitDeny
+s3:PutBucketPolicy	explicitDeny

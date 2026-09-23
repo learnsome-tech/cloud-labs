@@ -1,0 +1,5 @@
+alarm       ApiLatencyHigh
+owner       payments-on-call
+condition   p ninety nine above two hundred ms
+action      inspect traces and database latency
+escalate    after fifteen minutes or data loss

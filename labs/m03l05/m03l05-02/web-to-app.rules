@@ -1,0 +1,6 @@
+inbound
+tcp 443 from load-balancer-group
+tcp 22 from admin-network
+
+outbound
+all traffic to anywhere

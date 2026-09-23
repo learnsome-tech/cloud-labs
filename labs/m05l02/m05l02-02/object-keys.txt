@@ -1,0 +1,4 @@
+reports/2026/09/summary.json
+reports/2026/09/detail.json
+images/tenant-a/avatar.png
+backups/database/weekly.tar

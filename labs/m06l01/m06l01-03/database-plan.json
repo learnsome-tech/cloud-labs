@@ -1,0 +1,9 @@
+{
+  "engine": "postgres",
+  "subnetGroup": "data-private",
+  "securityGroup": "db-from-app",
+  "storageGiB": 100,
+  "multiAz": true,
+  "backupDays": 7,
+  "encrypted": true
+}

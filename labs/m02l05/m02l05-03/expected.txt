@@ -1,0 +1,2 @@
+iam:CreateAccessKey	implicitDeny	aws:MultiFactorAuthPresent
+iam:CreateAccessKey	allowed	None

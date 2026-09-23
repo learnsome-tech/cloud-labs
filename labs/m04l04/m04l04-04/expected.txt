@@ -1,0 +1,3 @@
+vm: pay for allocated capacity
+container: pay for capacity and control plane
+function

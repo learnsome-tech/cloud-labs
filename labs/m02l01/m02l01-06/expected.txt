@@ -1,0 +1,4 @@
+{
+    "Arn": "arn:aws:iam::123456789012:role/course-reader",
+    "Account": "123456789012"
+}

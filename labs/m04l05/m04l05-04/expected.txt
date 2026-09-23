@@ -1,0 +1,2 @@
+| AutoScalingGroupName | Min | Desired | Max |
+| report-workers | 2 | 2 | 6 |

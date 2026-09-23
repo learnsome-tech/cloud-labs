@@ -1,0 +1,10 @@
+{
+  "required": [
+    "Name",
+    "Owner",
+    "Environment",
+    "CostCenter",
+    "ManagedBy"
+  ],
+  "allowedEnvironments": ["development", "staging", "production"]
+}

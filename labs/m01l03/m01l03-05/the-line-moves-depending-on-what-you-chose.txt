@@ -1,0 +1,5 @@
+service          AWS operates                   you operate
+EC2 instance     hardware, hypervisor           guest OS, patching, app
+RDS database     OS, engine patching, backups   schema, users, queries
+Lambda function  everything under your handler  the handler, its memory
+S3 bucket        disks, durability, replication access rules, lifecycle

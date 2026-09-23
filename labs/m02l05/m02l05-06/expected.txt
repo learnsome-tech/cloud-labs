@@ -1,0 +1,11 @@
+{
+    "Path": "",
+    "UserName": "",
+    "PermissionsBoundary": "",
+    "Tags": [
+        {
+            "Key": "",
+            "Value": ""
+        }
+    ]
+}

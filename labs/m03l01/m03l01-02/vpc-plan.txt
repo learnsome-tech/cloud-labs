@@ -1,0 +1,4 @@
+VPC range     10.20.0.0/16
+Public subnet  10.20.1.0/24
+Private subnet 10.20.11.0/24
+Database       10.20.21.0/24

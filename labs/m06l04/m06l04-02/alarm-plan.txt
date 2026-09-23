@@ -1,0 +1,5 @@
+metric       request latency
+statistic     p ninety nine
+period        one minute
+threshold     above two hundred ms
+for           five minutes

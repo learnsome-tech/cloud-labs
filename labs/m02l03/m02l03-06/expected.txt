@@ -1,0 +1,4 @@
+== multi-factor authentication present
+secretsmanager:GetSecretValue	allowed
+== the same policy, the same request, no second factor
+secretsmanager:GetSecretValue	implicitDeny

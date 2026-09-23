@@ -1,0 +1,4 @@
+photos and backups      object
+boot disk and database   block
+shared application files file
+logs for later analysis  object

@@ -1,0 +1,6 @@
+{
+  "idleCompute": { "hours": 720, "unit": "instance-hours" },
+  "egress": { "gigabytes": 900, "unit": "GB" },
+  "logs": { "gigabytes": 450, "unit": "GB retained" },
+  "snapshots": { "gigabytes": 1200, "unit": "GB-month" }
+}

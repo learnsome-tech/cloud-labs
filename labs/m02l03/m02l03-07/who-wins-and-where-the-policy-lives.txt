@@ -1,0 +1,6 @@
+identity policy             resource policy
+attached to user or role    attached to bucket, queue, key
+no Principal field          Principal names who it covers
+same account                can grant across account lines
+
+evaluation: explicit deny  ->  allow  ->  default deny

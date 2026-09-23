@@ -1,0 +1,5 @@
+engine       PostgreSQL
+class        burstable small
+storage      gp3, 100 GiB
+availability  standby in another zone
+backup       seven days, encrypted

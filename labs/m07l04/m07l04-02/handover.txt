@@ -1,0 +1,5 @@
+network      VPC range, subnets, routes, groups
+identity     roles, trust, least privilege
+storage      buckets, volumes, retention, backups
+operations   alarms, tags, budgets, teardown
+application  compute choice and dependencies

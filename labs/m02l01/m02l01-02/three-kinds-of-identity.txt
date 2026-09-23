@@ -1,0 +1,4 @@
+root account       the account owner; emergency use only
+IAM user           a named person or old style application identity
+IAM role           a set of permissions assumed for a short session
+AWS service        a service identity used by a trusted role

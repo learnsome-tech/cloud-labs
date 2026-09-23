@@ -1,0 +1,4 @@
+strong transactions      relational
+flexible document access   document store
+known key queries at scale  key value
+shared analytical scans     warehouse
