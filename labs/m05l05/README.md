@@ -1,19 +1,22 @@
-# Elastic File System (EFS)
+# m05l05 · Elastic File System (EFS)
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: Storage Types  
-**Lesson**: `m05l05`
+Module 5: Storage Types · lesson 5.5 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m05l05)
 
-## Links
+**Goal:** You can decide when EFS fits shared files and explain mount targets, throughput, and access controls.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m05l05)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-5-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l05-02](m05l05-02/) | A shared filesystem plan | Read along |
 
-- [`m05l05-02/`](m05l05-02/)
+## Check yourself
+
+- Why does EFS need mount targets?
+- Which control acts before POSIX permissions?
+- When is a shared filesystem a better fit than object storage?
+- What storage behaviors affect EFS cost?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

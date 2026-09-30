@@ -1,0 +1,18 @@
+{
+  "lab": "m03l04-03",
+  "lesson": "m03l04",
+  "title": "A billable demonstration, opt in",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "nat-demo.sh",
+  "files": [
+    "nat-demo.sh",
+    "teardown.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run. Careful: it creates cloud resources that cost money."
+}

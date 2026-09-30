@@ -1,19 +1,22 @@
-# Object, Block, and File Storage
+# m05l01 · Object, Block, and File Storage
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: Storage Types  
-**Lesson**: `m05l01`
+Module 5: Storage Types · lesson 5.1 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m05l01)
 
-## Links
+**Goal:** You can choose object, block, or file storage by access pattern, sharing model, and durability need.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m05l01)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-5-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l01-02](m05l01-02/) | Match storage to a workload | Read along |
 
-- [`m05l01-02/`](m05l01-02/)
+## Check yourself
+
+- When is object storage a better fit than a disk?
+- Why does a database usually use block storage?
+- What does file storage add?
+- Why is a replica not the same as a backup?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

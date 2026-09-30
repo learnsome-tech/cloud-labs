@@ -1,0 +1,17 @@
+{
+  "lab": "m02l03-02",
+  "lesson": "m02l03",
+  "title": "The policy a deployment role usually gets",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "broad-deploy.json",
+  "files": [
+    "broad-deploy.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

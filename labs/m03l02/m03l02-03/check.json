@@ -1,0 +1,17 @@
+{
+  "lab": "m03l02-03",
+  "lesson": "m03l02",
+  "title": "Routes that show the difference",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "subnet-routes.txt",
+  "files": [
+    "subnet-routes.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

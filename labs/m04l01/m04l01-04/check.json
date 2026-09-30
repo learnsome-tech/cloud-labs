@@ -1,0 +1,18 @@
+{
+  "lab": "m04l01-04",
+  "lesson": "m04l01",
+  "title": "Inspect safe existing instances",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "inspect-instances.sh",
+  "files": [
+    "inspect-instances.sh",
+    "instance-plan.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

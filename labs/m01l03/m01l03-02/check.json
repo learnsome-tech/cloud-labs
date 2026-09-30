@@ -1,0 +1,17 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Two probes, one either side of the line",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-two-probes-one-either-side-of-the-line.sh",
+  "files": [
+    "session-two-probes-one-either-side-of-the-line.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It calls AWS with a real account. Run it only in an account you control."
+}

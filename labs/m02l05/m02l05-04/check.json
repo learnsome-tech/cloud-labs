@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-04",
+  "lesson": "m02l05",
+  "title": "The same question about an identity that exists",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "who-am-i-allowed.sh",
+  "files": [
+    "release-guard.json",
+    "simulate-document.sh",
+    "who-am-i-allowed.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It calls AWS with a real account. Run it only in an account you control."
+}

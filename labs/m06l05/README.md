@@ -1,19 +1,22 @@
-# Metrics, Logs, and Alarms
+# m06l05 · Metrics, Logs, and Alarms
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: Databases and Observability  
-**Lesson**: `m06l05`
+Module 6: Databases and Observability · lesson 6.5 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m06l05)
 
-## Links
+**Goal:** You can build an actionable alarm with a clear owner, threshold, runbook, and recovery review.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m06l05)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-6-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l05-02](m06l05-02/) | An alarm with an owner | Read along |
 
-- [`m06l05-02/`](m06l05-02/)
+## Check yourself
+
+- What makes an alarm actionable?
+- Why should the first runbook action be safe?
+- How do you test notification delivery?
+- When should an alarm be removed or changed?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

@@ -1,0 +1,17 @@
+{
+  "lab": "m01l04-04",
+  "lesson": "m01l04",
+  "title": "Zone names are yours, zone ids are real",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "zones.sh",
+  "files": [
+    "zones.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It calls AWS with a real account. Run it only in an account you control."
+}

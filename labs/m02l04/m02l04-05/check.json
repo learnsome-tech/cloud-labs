@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-05",
+  "lesson": "m02l04",
+  "title": "Find keys that have not been used recently",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "key-inventory.sh",
+  "files": [
+    "bad-config.sh",
+    "key-inventory.sh",
+    "role-based-config.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

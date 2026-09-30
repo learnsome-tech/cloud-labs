@@ -1,0 +1,17 @@
+{
+  "lab": "m07l03-02",
+  "lesson": "m07l03",
+  "title": "Ask the CLI for identity and region",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "session-ask-the-cli-for-identity-and-region.sh",
+  "files": [
+    "session-ask-the-cli-for-identity-and-region.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

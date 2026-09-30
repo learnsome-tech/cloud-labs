@@ -1,19 +1,22 @@
-# Network Address Translation
+# m03l04 · Network Address Translation
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: The Network  
-**Lesson**: `m03l04`
+Module 3: The Network · lesson 3.4 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m03l04)
 
-## Links
+**Goal:** You can explain why private workloads use NAT for outbound traffic and identify its availability and cost tradeoffs.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m03l04)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-3-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l04-03](m03l04-03/) | A billable demonstration, opt in | Read along |
 
-- [`m03l04-03/`](m03l04-03/)
+## Check yourself
+
+- Why can NAT permit downloads without permitting unsolicited inbound access?
+- Where does a NAT gateway live?
+- Why place gateways in more than one zone?
+- What must be deleted after a billable NAT demonstration?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

@@ -1,19 +1,22 @@
-# Elastic Block Store (EBS)
+# m05l04 · Elastic Block Store (EBS)
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: Storage Types  
-**Lesson**: `m05l04`
+Module 5: Storage Types · lesson 5.4 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m05l04)
 
-## Links
+**Goal:** You can plan an EBS volume for an instance, explain snapshots, and avoid treating a disk as a complete backup strategy.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m05l04)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-5-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l04-02](m05l04-02/) | A volume plan | Read along |
 
-- [`m05l04-02/`](m05l04-02/)
+## Check yourself
+
+- Why is an EBS volume tied to a zone?
+- What does a snapshot preserve?
+- Why is a snapshot not automatically a complete backup strategy?
+- Which deletion decision must be made before launch?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

@@ -1,3 +1,0 @@
-iam:CreateUser	allowed
-ec2:RunInstances	allowed
-AdministratorAccess	IAM Policy

@@ -1,4 +1,0 @@
-$ aws sts get-caller-identity --query Arn --output text
-arn:aws:iam::ACCOUNT:role/readonly
-$ aws configure get region
-eu-west-2

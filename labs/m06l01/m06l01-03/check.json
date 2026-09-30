@@ -1,0 +1,17 @@
+{
+  "lab": "m06l01-03",
+  "lesson": "m06l01",
+  "title": "A private database plan",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "database-plan.json",
+  "files": [
+    "database-plan.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

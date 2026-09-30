@@ -1,4 +1,0 @@
-snapshot gigabytes 1200
-egress gigabytes 900
-idle compute hours 720
-retained log gigabytes 450

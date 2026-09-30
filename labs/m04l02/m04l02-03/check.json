@@ -1,0 +1,17 @@
+{
+  "lab": "m04l02-03",
+  "lesson": "m04l02",
+  "title": "A small task definition",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "task-definition.json",
+  "files": [
+    "task-definition.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,18 @@
+{
+  "lab": "m02l03-03",
+  "lesson": "m02l03",
+  "title": "The same job, written narrowly",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "scoped-deploy.json",
+  "files": [
+    "broad-deploy.json",
+    "scoped-deploy.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

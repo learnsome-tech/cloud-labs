@@ -1,0 +1,17 @@
+{
+  "lab": "m01l02-02",
+  "lesson": "m01l02",
+  "title": "One family of machines, seven sizes",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "instance-sizes.sh",
+  "files": [
+    "instance-sizes.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It calls AWS with a real account. Run it only in an account you control."
+}

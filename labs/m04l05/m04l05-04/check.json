@@ -1,0 +1,18 @@
+{
+  "lab": "m04l05-04",
+  "lesson": "m04l05",
+  "title": "Inspect group capacity without changing it",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "group-capacity.sh",
+  "files": [
+    "group-capacity.sh",
+    "scaling-plan.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

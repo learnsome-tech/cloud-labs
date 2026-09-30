@@ -1,6 +1,0 @@
-$ export AWS_DEFAULT_REGION=eu-west-2
-$ Q='Quota.[QuotaName,Value]'
-$ aws service-quotas get-service-quota --service-code ec2 --quota-code L-1216C47A --query "$Q" --output text
-Running On-Demand Standard (A, C, D, H, I, M, R, T, Z) instances	256.0
-$ aws service-quotas get-service-quota --service-code lambda --quota-code L-B99A9384 --query "$Q" --output text
-Concurrent executions	400.0

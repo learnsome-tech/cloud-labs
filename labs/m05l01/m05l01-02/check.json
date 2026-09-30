@@ -1,0 +1,17 @@
+{
+  "lab": "m05l01-02",
+  "lesson": "m05l01",
+  "title": "Match storage to a workload",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "storage-choice.txt",
+  "files": [
+    "storage-choice.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

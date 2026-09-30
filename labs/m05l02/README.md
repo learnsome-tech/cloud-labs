@@ -1,19 +1,22 @@
-# S3: Buckets and Objects
+# m05l02 · S3: Buckets and Objects
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: Storage Types  
-**Lesson**: `m05l02`
+Module 5: Storage Types · lesson 5.2 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m05l02)
 
-## Links
+**Goal:** You can explain the bucket and object model in S three and design names, prefixes, and lifecycle boundaries.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m05l02)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-5-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l02-02](m05l02-02/) | A key naming plan | Read along |
 
-- [`m05l02-02/`](m05l02-02/)
+## Check yourself
+
+- What belongs to an object besides its data?
+- Why is a prefix not a real directory?
+- When should ownership imply a separate bucket?
+- How can versioning increase both recovery and cost?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

@@ -1,19 +1,22 @@
-# Virtual Private Clouds
+# m03l01 · Virtual Private Clouds
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: The Network  
-**Lesson**: `m03l01`
+Module 3: The Network · lesson 3.1 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m03l01)
 
-## Links
+**Goal:** You can explain what a VPC isolates and choose a sensible address range before adding subnets and routes.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m03l01)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-3-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l01-02](m03l01-02/) | Choose a VPC range | Read along |
 
-- [`m03l01-02/`](m03l01-02/)
+## Check yourself
+
+- What does a VPC isolate?
+- Why should its address range avoid overlap?
+- What makes a subnet public?
+- How do you trace a packet path from a resource?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

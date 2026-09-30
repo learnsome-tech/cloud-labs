@@ -1,0 +1,21 @@
+{
+  "lab": "m01l01-03",
+  "lesson": "m01l01",
+  "title": "The same number, over a month and over a year",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash what-it-adds-up-to.sh",
+  "main": "what-it-adds-up-to.sh",
+  "files": [
+    "price-t3-micro.sh",
+    "what-it-adds-up-to.sh"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash",
+    "jq"
+  ],
+  "note": null
+}

@@ -1,4 +1,0 @@
-eu-west-2a	euw2-az2
-eu-west-2b	euw2-az3
-eu-west-2c	euw2-az1
-eu-west-2d	euw2-az4

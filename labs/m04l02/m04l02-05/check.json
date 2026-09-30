@@ -1,0 +1,18 @@
+{
+  "lab": "m04l02-05",
+  "lesson": "m04l02",
+  "title": "Inspect task definitions without deploying",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "list-tasks.sh",
+  "files": [
+    "list-tasks.sh",
+    "task-definition.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

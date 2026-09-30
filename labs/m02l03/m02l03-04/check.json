@@ -1,0 +1,19 @@
+{
+  "lab": "m02l03-04",
+  "lesson": "m02l03",
+  "title": "Asking the engine to judge both documents",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "compare-scope.sh",
+  "files": [
+    "broad-deploy.json",
+    "compare-scope.sh",
+    "scoped-deploy.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It calls AWS with a real account. Run it only in an account you control."
+}

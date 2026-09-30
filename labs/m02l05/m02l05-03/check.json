@@ -1,0 +1,18 @@
+{
+  "lab": "m02l05-03",
+  "lesson": "m02l05",
+  "title": "What the engine says about that document",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "simulate-document.sh",
+  "files": [
+    "release-guard.json",
+    "simulate-document.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It calls AWS with a real account. Run it only in an account you control."
+}

@@ -1,0 +1,21 @@
+{
+  "lab": "m02l03-06",
+  "lesson": "m02l03",
+  "title": "The same policy, two different answers",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "mfa-context.sh",
+  "files": [
+    "broad-deploy.json",
+    "compare-scope.sh",
+    "mfa-context.sh",
+    "require-mfa.json",
+    "scoped-deploy.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It calls AWS with a real account. Run it only in an account you control."
+}

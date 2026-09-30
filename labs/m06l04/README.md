@@ -1,19 +1,22 @@
-# Observability with CloudWatch
+# m06l04 · Observability with CloudWatch
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: Databases and Observability  
-**Lesson**: `m06l04`
+Module 6: Databases and Observability · lesson 6.4 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m06l04)
 
-## Links
+**Goal:** You can distinguish metrics, logs, and traces, then choose CloudWatch signals that explain a service failure.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m06l04)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-6-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l04-02](m06l04-02/) | A useful service signal | Read along |
 
-- [`m06l04-02/`](m06l04-02/)
+## Check yourself
+
+- What question does a metric answer?
+- Why is a percentile useful for latency?
+- How do correlation identifiers help?
+- Why is log retention a design decision?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)

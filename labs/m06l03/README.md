@@ -1,19 +1,22 @@
-# When to Pick Which Database
+# m06l03 · When to Pick Which Database
 
-**Course**: [Cloud Infrastructure & Hyperscaler Architecture](https://learnsome.tech/courses/cloud-course)  
-**Module**: Databases and Observability  
-**Lesson**: `m06l03`
+Module 6: Databases and Observability · lesson 6.3 · Pro · [Open the lesson](https://learnsome.tech/learn/cloud-course/m06l03)
 
-## Links
+**Goal:** You can choose a managed relational or non relational database from consistency, query, relationship, and scale requirements.
 
-- [Watch lesson](https://learnsome.tech/courses/cloud-course/watch?lesson=m06l03)
-- [Handbook](https://learnsome.tech/courses/cloud-course/book#lesson-6-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l03-02](m06l03-02/) | A decision record | Read along |
 
-- [`m06l03-02/`](m06l03-02/)
+## Check yourself
+
+- Which requirements favour a relational database?
+- Why is multi zone availability not a backup?
+- What does a recovery point objective describe?
+- Why can a read replica repeat corruption?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Cloud Infrastructure & Hyperscaler Architecture on LearnSome.tech](https://learnsome.tech/courses/cloud-course)
